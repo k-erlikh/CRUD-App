@@ -24,6 +24,3 @@ Options:
 <li>Delete user</li>
 <li>Exit</li>
 </ol>
-
-<p><b>Video demonstration:</b> https://youtu.be/3S4M7_5mA_o</p>
-    
